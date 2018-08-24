@@ -1,0 +1,6 @@
+.classpath
+.project
+*.mp3
+**/bin/**
+**/target/**
+.settings
